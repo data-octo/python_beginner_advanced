@@ -1,18 +1,40 @@
 # Python By Examples: From Beginner to Advanced in 7 Days
 
-## Audience:
+## Beginner
+
+Understand basic programming with Python.
+
+- What's Python
+- How we study Python
+- Python basics
+
+## Advanced
+
+Understand functions and object oriented programming with Python Turtle and Pygame. 
+
+- Python advanced
+- Turtle
+- Pygame
+
+## Expert
+
+Understand Python libraries and frameworks for AI.
+
+- Data Science
+- Machine learning
+- Deep learning
+- Reinforcement learning
+
+## Audience
 
 - Beginners (any age with some computer knowledge) of Programming
 - Kids (10 - 15 years old) interested in Coding
 - Programmers interested in Data Science (Analytics and Visualization)
 - Programmers interested in AI (Deep Learning and Reinforcement Learning) 
 
-
-
 ## Prerequisites
 
 You should have a basic understanding of Computer Programming terminologies. A basic understanding of any of the programming languages is a plus.
-
 
 ## The Zen of Python, by Tim Peters
 
