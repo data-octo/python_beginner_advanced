@@ -1,4 +1,4 @@
-# Python By Examples: From Beginner to Advanced in 7 Days
+# Python By Examples: From Beginner to Advanced 
 
 ## Beginner
 
