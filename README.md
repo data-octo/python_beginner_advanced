@@ -1,4 +1,60 @@
-# Python By Examples: From Beginner to Advanced 
+# Python By Examples: From Beginner to Advanced
+
+## Expectation on this courses
+
+- Know how to set up python development environment
+- Know basic coding knowledge and coding with Python
+- Know how to draw graphics with Python
+- Know how to make simple games with Python
+- Know how to use Python for data analysis, machine learning and deep learning
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
+## Courses
+
+- Preface
+- Beginner
+  - 1. Why Python
+      - Use of Python
+  - 2. What is Python
+      - Python Introduction
+      - Python IDE
+      - How to learn Python
+  - 3. Python Basics
+      - Variables and Data Types
+      - Condition
+      - loops
+      - Functions
+- Advanced
+  - 4. Python Advanced
+      - 
+  - 5. Python Graphics
+      - Python Turtle
+      - Spiral Square
+      - Fractal Tree
+  - 6. Python Gaming
+      - Pygame
+      - Flappy Bird
+      - Gomoku
+- Expert
+  - 7. Python Data Science
+      - Pandas
+      - Numpy
+      - Matplotlib
+  - 8. Python Machine Learning
+      - Scikit Learn
+      - Supervised Learning
+      - Unsupervised Learning
+  - 9. Python Deep Learning
+      - Deep learning
+      - Tensorflow
+      - Pytorch
+      - Keras
+  - 10. Python Reinforcement Learning
+      - Reinforcement Learning
+      - OpenAI Gym
+      - Gomoku
+- Summary
 
 ## Beginner
 
@@ -16,6 +72,9 @@ Understand functions and object oriented programming with Python Turtle and Pyga
 - Turtle
 - Pygame
 
+![flappy bird](../images/python-flappy-bird.png)
+![turtle](../images/python-turtle-degrees.mov)
+
 ## Expert
 
 Understand Python libraries and frameworks for AI.
@@ -24,6 +83,8 @@ Understand Python libraries and frameworks for AI.
 - Machine learning
 - Deep learning
 - Reinforcement learning
+
+![gomoku](../images/python-AI-Gomoku.mp4)
 
 ## Audience
 
