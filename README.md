@@ -8,14 +8,12 @@
 - Know how to make simple games with Python
 - Know how to use Python for data analysis, machine learning and deep learning
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-
 ## Courses
 
 - Preface
 - Beginner
   1. Why Python
-      - Use of Python
+     - Use of Python
   2. What is Python
      - Python Introduction
      - Python IDE
@@ -25,34 +23,37 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
      - Condition
      - Loops
      - Functions
-- Advanced
+- Advanced <br>
   4. Python Advanced
+     - Classes and Objects
+     - List Comprehension
+     - Set
   5. Python Graphics
-    - Python Turtle
-    - Spiral Square
-    - Fractal Tree
+     - Python Turtle
+     - Spiral Square
+     - Fractal Tree
   6. Python Gaming
-    - Pygame
-    - Flappy Bird
-    - Gomoku
-- Expert
+     - Pygame
+     - Flappy Bird
+     - Gomoku
+- Expert <br>
   7. Python Data Science
-    - Pandas
-    - Numpy
-    - Matplotlib
+     - Pandas
+     - Numpy
+     - Matplotlib
   8. Python Machine Learning
-    - Scikit Learn
-    - Supervised Learning
-    - Unsupervised Learning
+     - Scikit Learn
+     - Supervised Learning
+     - Unsupervised Learning
   9. Python Deep Learning
-    - Deep learning
-    - Tensorflow
-    - Pytorch
-    - Keras
-  10.  Python Reinforcement Learning
-    - Reinforcement Learning
-    - OpenAI Gym
-    - Gomoku
+     - Deep learning
+     - Tensorflow
+     - Pytorch
+     - Keras
+  10. Python Reinforcement Learning
+     - Reinforcement Learning
+     - OpenAI Gym
+     - Gomoku
 - Summary
 
 ## Beginner
@@ -71,9 +72,6 @@ Understand functions and object oriented programming with Python Turtle and Pyga
 - Turtle
 - Pygame
 
-![flappy bird](../images/python-flappy-bird.png)
-![turtle](../images/python-turtle-degrees.mov)
-
 ## Expert
 
 Understand Python libraries and frameworks for AI.
@@ -82,8 +80,6 @@ Understand Python libraries and frameworks for AI.
 - Machine learning
 - Deep learning
 - Reinforcement learning
-
-![gomoku](../images/python-AI-Gomoku.mp4)
 
 ## Audience
 
