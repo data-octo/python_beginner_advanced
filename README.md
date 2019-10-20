@@ -3,10 +3,10 @@
 ## Expectation on this courses
 
 - Know how to set up python development environment
-- Know basic coding knowledge and coding with Python
-- Know how to draw graphics with Python
-- Know how to make simple games with Python
-- Know how to use Python for data analysis, machine learning and deep learning
+- Know basic coding with Python local or online IDE
+- Know how to draw graphics with Python Turtle
+- Know how to make simple games with Python PyGame
+- Know how to do data analysis, machine learning and deep learning with Python
 
 ## Courses
 
