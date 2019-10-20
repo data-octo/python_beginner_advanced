@@ -14,46 +14,45 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 - Preface
 - Beginner
-  - 1. Why Python
+  1. Why Python
       - Use of Python
-  - 2. What is Python
-      - Python Introduction
-      - Python IDE
-      - How to learn Python
-  - 3. Python Basics
-      - Variables and Data Types
-      - Condition
-      - loops
-      - Functions
+  2. What is Python
+     - Python Introduction
+     - Python IDE
+     - How to learn Python
+  3. Python Basics
+     - Variables and Data Types
+     - Condition
+     - Loops
+     - Functions
 - Advanced
-  - 4. Python Advanced
-      - 
-  - 5. Python Graphics
-      - Python Turtle
-      - Spiral Square
-      - Fractal Tree
-  - 6. Python Gaming
-      - Pygame
-      - Flappy Bird
-      - Gomoku
+  4. Python Advanced
+  5. Python Graphics
+    - Python Turtle
+    - Spiral Square
+    - Fractal Tree
+  6. Python Gaming
+    - Pygame
+    - Flappy Bird
+    - Gomoku
 - Expert
-  - 7. Python Data Science
-      - Pandas
-      - Numpy
-      - Matplotlib
-  - 8. Python Machine Learning
-      - Scikit Learn
-      - Supervised Learning
-      - Unsupervised Learning
-  - 9. Python Deep Learning
-      - Deep learning
-      - Tensorflow
-      - Pytorch
-      - Keras
-  - 10. Python Reinforcement Learning
-      - Reinforcement Learning
-      - OpenAI Gym
-      - Gomoku
+  7. Python Data Science
+    - Pandas
+    - Numpy
+    - Matplotlib
+  8. Python Machine Learning
+    - Scikit Learn
+    - Supervised Learning
+    - Unsupervised Learning
+  9. Python Deep Learning
+    - Deep learning
+    - Tensorflow
+    - Pytorch
+    - Keras
+  10.  Python Reinforcement Learning
+    - Reinforcement Learning
+    - OpenAI Gym
+    - Gomoku
 - Summary
 
 ## Beginner
