@@ -24,15 +24,15 @@
      - Conditions and Loops
      - Functions
 - Advanced <br>
-  1. Python Advanced
+  4. Python Advanced
+     - Python Collections
      - Classes and Objects
-     - List Comprehension
-     - Set
-  2. Python Graphics
+     - Modules and Packages
+  5. Python Graphics
      - Python Turtle
      - Spiral Square
      - Fractal Tree
-  3. Python Gaming
+  6. Python Gaming
      - Pygame
      - Flappy Bird
      - Gomoku
@@ -48,12 +48,11 @@
   9. Python Deep Learning
      - Deep learning
      - Tensorflow
-     - Pytorch
-     - Keras
+     - Generative Model
   10. Python Reinforcement Learning
      - Reinforcement Learning
      - OpenAI Gym
-     - Gomoku
+     - Gomoku with AlphaZero
 - Summary
 
 ## Beginner
