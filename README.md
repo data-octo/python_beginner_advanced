@@ -1,4 +1,4 @@
-# Python By Examples: From Beginner to Advanced
+# Python By Examples: From Beginner to Expert
 
 ## Expectation on this courses
 
@@ -19,20 +19,20 @@
      - Python IDE
      - How to learn Python
   3. Python Basics
+     - Hello World
      - Variables and Data Types
-     - Condition
-     - Loops
+     - Conditions and Loops
      - Functions
 - Advanced <br>
-  4. Python Advanced
+  1. Python Advanced
      - Classes and Objects
      - List Comprehension
      - Set
-  5. Python Graphics
+  2. Python Graphics
      - Python Turtle
      - Spiral Square
      - Fractal Tree
-  6. Python Gaming
+  3. Python Gaming
      - Pygame
      - Flappy Bird
      - Gomoku
@@ -92,6 +92,10 @@ Understand Python libraries and frameworks for AI.
 
 You should have a basic understanding of Computer Programming terminologies. A basic understanding of any of the programming languages is a plus.
 
+## Easter Egg
+
+`>>> import this`
+
 ## The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
@@ -113,7 +117,3 @@ Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
-
-## Easter Egg
-
-`>>> import this`
