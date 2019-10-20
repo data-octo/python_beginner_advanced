@@ -55,31 +55,6 @@
      - Gomoku with AlphaZero
 - Summary
 
-## Beginner
-
-Understand basic programming with Python.
-
-- What's Python
-- How we study Python
-- Python basics
-
-## Advanced
-
-Understand functions and object oriented programming with Python Turtle and Pygame. 
-
-- Python advanced
-- Turtle
-- Pygame
-
-## Expert
-
-Understand Python libraries and frameworks for AI.
-
-- Data Science
-- Machine learning
-- Deep learning
-- Reinforcement learning
-
 ## Audience
 
 - Beginners (any age with some computer knowledge) of Programming
@@ -89,9 +64,11 @@ Understand Python libraries and frameworks for AI.
 
 ## Prerequisites
 
-You should have a basic understanding of Computer Programming terminologies. A basic understanding of any of the programming languages is a plus.
+It'll be good if you have a basic understanding of Computer Programming terminologies. A basic understanding of any of the programming languages is a plus. However, this course is also designed for you if you don't have any computer or programming experience.
 
 ## Easter Egg
+
+Try following in Python command line:
 
 `>>> import this`
 
