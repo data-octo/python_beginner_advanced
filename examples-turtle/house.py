@@ -1,5 +1,4 @@
 # Create a scene with a house, a tree, and a sun
-# Based on the picture at http://dragonometry.net/blog/?p=566
 
 import turtle
 import math

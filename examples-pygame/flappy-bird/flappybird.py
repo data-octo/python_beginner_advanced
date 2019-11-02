@@ -269,6 +269,7 @@ def load_images():
         img_file_name: The file name (including its extension, e.g.
             '.png') of the required image, without a file path.
         """
+        print(os.getcwd())
         file_name = os.path.join('.', 'images', img_file_name)
         img = pygame.image.load(file_name)
         img.convert()
