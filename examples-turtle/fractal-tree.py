@@ -1,46 +1,46 @@
 import turtle
 
-SIZE_TREE = 10
+WIDTH = 15
+BRANCH_LENGTH = 120
+ROTATION_LENGTH = 27
 
 
-def draw_tree(size):
-    if size > SIZE_TREE:
-        # 
+class Tree_Fractal(turtle.Turtle):
+    def __init__(self, level):
+        super(Tree_Fractal, self).__init__()
+        self.level = level
+        self.hideturtle()
+        self.speed('fastest')
+        self.left(90)
+        self.width(WIDTH)
+        self.penup()
+        self.back(BRANCH_LENGTH * 1.5)
+        self.pendown()
+        self.forward(BRANCH_LENGTH)
+        self.draw_tree(BRANCH_LENGTH, level)
 
-        turtle.forward(size)
-        turtle.right(20)
-        draw_tree(size / 1.5)
-        # left
-        turtle.left(40)
-        draw_tree(size / 1.5)
+    def draw_tree(self, branch_length, level):
+        width = self.width()
+        self.width(width * 3. / 4.)
+        branch_length *= 3. / 4.
+        self.left(ROTATION_LENGTH)
+        self.forward(branch_length)
 
-        # Back to the previous branches
-        turtle.right(20)
-        # Draw the green of the last branch
-        if size / 2 <= SIZE_TREE:
-            turtle.color('green')
-        else:
-            turtle.color('brown')
-        turtle.backward(size)
+        if level > 0:
+            self.draw_tree(branch_length, level - 1)
+        self.back(branch_length)
+        self.right(2 * ROTATION_LENGTH)
+        self.forward(branch_length)
 
+        if level > 0:
+            self.draw_tree(branch_length, level - 1)
+        self.back(branch_length)
+        self.left(ROTATION_LENGTH)
 
-def main():
-    # turtle.speed(1)
-    turtle.hideturtle()
-    turtle.penup()
-    # 
-    turtle.left(90)
-    turtle.backward(100)
-    turtle.showturtle()
-    # 
-    # 
-    turtle.pendown()
-    turtle.pensize(2)
-    turtle.color('brown')
-    # gives the length of the root
-    draw_tree(100)
+        self.width(width)
 
 
 if __name__ == '__main__':
-    main()
+    tree_level = 5  # choose
+    tree = Tree_Fractal(tree_level)
     turtle.done()
