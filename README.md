@@ -63,7 +63,7 @@
 
 ## Chapter Structure
 
-* Questions for the chapter
+* Questions
 * Topics
 * Practices
 * Bonus Question
