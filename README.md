@@ -1,13 +1,13 @@
-# Python By Examples: From Beginner to Expert
+# Python By Examples
 
-## Expectation on this courses
+## What you can get
 
 - Know basic coding with Python local or online IDE - Understand basics of programming
 - Know how to draw graphics with Python Turtle - Understand math with python coding
 - Know how to make simple games with Python PyGame - Understand Object Oriented programing
 - Know how to do data analysis, machine learning and deep learning with Python - Understand tools and frameworks for data science and artificial intelligence
 
-## Courses
+## Chapters
 
 *   Preface
 
@@ -55,22 +55,22 @@
         *   Tensorflow
         *   Generative Model
     10.  Python Reinforcement Learning
-        *   Reinforcement Learning
-        *   OpenAI Gym
-        *   Gomoku with AlphaZero
+          * Reinforcement Learning
+          * OpenAI Gym
+          * Gomoku with AlphaZero
 
 *   Summary
 
-## Audience
+## Targeted Audience
 
-- Beginners (any age with some computer knowledge) of Programming
-- Kids (10 - 15 years old) interested in Coding
-- Programmers interested in Data Science (Analytics and Visualization)
-- Programmers interested in AI (Deep Learning and Reinforcement Learning) 
+- Anyone interested in learning coding
+- Young Children interested in basic coding
+- Programmers interested in exploring Data Science
+- Programmers interested in building AI applications
 
 ## Prerequisites
 
-It'll be good if you have a basic understanding of Computer Programming terminologies. A basic understanding of any of the programming languages is a plus. However, this course is also designed for you if you don't have any computer or programming experience.
+This course is also designed for you if you don't have any computer or programming experience. However, it'll be good if you have a basic understanding of Computer Programming terminologies. A basic understanding of any of the programming languages is a plus.
 
 ## Next Steps
 
