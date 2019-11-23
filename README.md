@@ -9,9 +9,9 @@
 
 ## Chapters
 
-*   Preface
+*   **Preface**
 
-*   Beginner
+*   **Beginner**
 
     1.  Why Python
         *   Use of Python
@@ -25,7 +25,7 @@
         *   Conditions and Loops
         *   Functions
   
-*   Advanced
+*   **Advanced**
 
     4.  Python Advanced
         *   Python Collections
@@ -40,7 +40,7 @@
         *   Flappy Bird
         *   Gomoku
 
-*   Expert
+*   **Expert**
 
     7.  Python Data Science
         *   Pandas
@@ -59,7 +59,15 @@
           * OpenAI Gym
           * Gomoku with AlphaZero
 
-*   Summary
+*   **Summary**
+
+## Chapter Structure
+
+* Questions for the chapter
+* Topics
+* Practices
+* Bonus Question
+* Further Reading
 
 ## Targeted Audience
 
