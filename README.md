@@ -11,7 +11,7 @@
 
 *   **Preface**
 
-*   **Beginner**
+*   **Part 1. Beginner**
 
     1.  Why Python
         *   Use of Python
@@ -25,7 +25,7 @@
         *   Conditions and Loops
         *   Functions
   
-*   **Advanced**
+*   **Part 2. Advanced**
 
     4.  Python Advanced
         *   Python Collections
@@ -40,7 +40,7 @@
         *   Flappy Bird
         *   Gomoku
 
-*   **Expert**
+*   **Part 3. Expert**
 
     7.  Python Data Science
         *   Pandas
