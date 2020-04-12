@@ -39,11 +39,14 @@
         *   Pygame
         *   Flappy Bird
         *   Gomoku
-    7.  Python for Web
+    7. [ ] Python Web Development
+        *   Http Server
         *   Flask
-        *   Web Application - Hello World
-        *   Web Form with HTML
-
+        *   Restful API
+    8. [ ] Python Web Scraping
+        *   Web Scraping
+        *   BeautifulSoup
+        *   Scrapy
 *   **Part 3. Expert**
 
     7.  Python Data Science
