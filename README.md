@@ -31,14 +31,18 @@
         *   Python Collections
         *   Classes and Objects
         *   Modules and Packages
-    5.  Python Graphics
+    5.  Python for Graphics
         *   Python Turtle
         *   Spiral Square
         *   Fractal Tree
-    6.  Python Gaming
+    6.  Python for Gaming
         *   Pygame
         *   Flappy Bird
         *   Gomoku
+    7.  Python for Web
+        *   Flask
+        *   Web Application - Hello World
+        *   Web Form with HTML
 
 *   **Part 3. Expert**
 
