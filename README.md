@@ -35,7 +35,7 @@
         *   Python Turtle
         *   Spiral Square
         *   Fractal Tree
-    6.  Python for Gaming
+    6.  Python Gaming
         *   Pygame
         *   Flappy Bird
         *   Gomoku
