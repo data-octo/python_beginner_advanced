@@ -1,6 +1,6 @@
 # Python By Examples
 
-This tutorial is to help understand Python coding with hands on examples. 
+This tutorial is to help understand Python coding with hands on examples which cover from basics to game building to web development and to machine learning and deep learning. 
 
 ## What you can get
 
