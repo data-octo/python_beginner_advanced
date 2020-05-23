@@ -1,11 +1,24 @@
 # Python By Examples
 
+This tutorial is to help understand Python coding with hands on examples. 
+
 ## What you can get
 
-- Know basic coding with Python local or online IDE - Understand basics of programming
-- Know how to draw graphics with Python Turtle - Understand math with python coding
-- Know how to make simple games with Python PyGame - Understand Object Oriented programing
-- Know how to do data analysis, machine learning and deep learning with Python - Understand tools and frameworks for data science and artificial intelligence
+- Basic coding with Python local or online IDE - Basics of programming concept for beginners
+- Drawing with Python Turtle and Making simple games with Python PyGame - Advanced learning to understand Object Oriented programing
+- Building web application and web scraping - Libraries of Python Flask and Scrapy for experts
+- Data analysis, machine learning and deep learning - For understanding of data science and artificial intelligence
+
+## Targeted Audience
+
+- Anyone interested in learning coding
+- Young Children interested in basic coding
+- Programmers interested in exploring Data Science
+- Programmers interested in building AI applications
+
+## Prerequisites
+
+This course is also designed for you if you don't have any computer or programming experience. However, it'll be good if you have a basic understanding of Computer Programming terminologies. A basic understanding of any of the programming languages is a plus.
 
 ## Chapters
 
@@ -39,53 +52,47 @@
         *   Pygame
         *   Flappy Bird
         *   Gomoku
-    7. [ ] Python Web Development
+    7.  Python Web Development
         *   Http Server
         *   Flask
         *   Restful API
-    8. [ ] Python Web Scraping
+    8.  Python Web Scraping
         *   Web Scraping
         *   BeautifulSoup
         *   Scrapy
+
 *   **Part 3. Expert**
 
-    7.  Python Data Science
+    8.  Python Data Science
         *   Pandas
         *   Numpy
         *   Matplotlib
-    8.  Python Machine Learning
+    9.  Python Machine Learning
         *   Scikit Learn
         *   Supervised Learning
         *   Unsupervised Learning
-    9.  Python Deep Learning
+    10.  Python Deep Learning
         *   Deep learning
         *   Tensorflow
         *   Generative Model
-    10.  Python Reinforcement Learning
+    11.  Python Reinforcement Learning
           * Reinforcement Learning
           * OpenAI Gym
           * Gomoku with AlphaZero
 
 *   **Summary**
 
+*   **Appendix**
+
 ## Chapter Structure
 
-* Questions
-* Topics
-* Practices
+* Chapter Topic
+* Review of Previous Topic
+* Detailed Topics
+* Quiz and Practices
 * Bonus Question
 * Further Reading
-
-## Targeted Audience
-
-- Anyone interested in learning coding
-- Young Children interested in basic coding
-- Programmers interested in exploring Data Science
-- Programmers interested in building AI applications
-
-## Prerequisites
-
-This course is also designed for you if you don't have any computer or programming experience. However, it'll be good if you have a basic understanding of Computer Programming terminologies. A basic understanding of any of the programming languages is a plus.
+* Preview of Next Topic
 
 ## Next Steps
 
