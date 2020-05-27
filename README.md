@@ -94,7 +94,7 @@ This course is also designed for you if you don't have any computer or programmi
 * Further Reading
 * Preview of Next Topic
 
-## Next Steps
+## Further Learning
 
 - Python for Everyone: Learn coding with Python
 - Python for Math: Learn Math with Python Turtle
