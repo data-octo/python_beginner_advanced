@@ -4,10 +4,17 @@ Python by Examples is to learn Python coding with hands on examples which cover 
 
 ## Installation
 
-Use git to download the code to local computer
+### Local Computer
+
+#### Mac 
+
+- [ ] Download Anaconda for Python enviornment
+- [ ] Download Git for versioning control
+
+Download the code to local computer:
 
 ```
-git clone 
+git clone https://github.com/data-octo/python_by_examples.git
 ```
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
