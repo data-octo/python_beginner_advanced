@@ -11,16 +11,16 @@ Python by Examples is to learn Python coding with hands on examples which cover 
 - [ ] Download Anaconda for Python enviornment
 - [ ] Download Git for versioning control
 
-Download the code to local computer:
+- [ ] Download the code to local computer:
 
 ```
 git clone https://github.com/data-octo/python_by_examples.git
 ```
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+- [ ] Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pygame.
 
 ```bash
-pip install foobar
+pip install pygame
 ```
 
 ## Usage
